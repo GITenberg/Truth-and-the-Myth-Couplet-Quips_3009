@@ -1,11 +1,16 @@
 _repo: Truth-and-the-Myth-Couplet-Quips_3009
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Narayanan, A. R.
     gutenberg_agent_id: '1086'
     url: http://www.gutenberg.org/2009/agents/1086
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3009#Truth-and-the-Myth-Couplet-Quips
 gutenberg_issued: '2002-01-01'
 gutenberg_type: Text
 identifiers:
