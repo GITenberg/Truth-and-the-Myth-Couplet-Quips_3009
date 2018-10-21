@@ -1,5 +1,5 @@
 _repo: Truth-and-the-Myth-Couplet-Quips_3009
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -22,5 +22,6 @@ rights_url: ''
 subjects:
 - !lcsh 'Indic poetry (English)'
 - !lcc 'PR'
+- GITenberg
 title: 'Truth and the Myth: Couplet Quips'
 url: http://www.gutenberg.org/ebooks/3009
